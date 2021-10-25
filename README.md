@@ -2,3 +2,5 @@
 
 # Hello, I am Damla! 
 
+
+[![](https://img.shields.io/github/followers/damlakonur?style=social)](https://www.github.com/damlakonur)
