@@ -3,7 +3,7 @@
 
 ### Connect with me:
 <a href="mailto:konursd@gmail.com"><img align="left" width="22px" src="https://cdn.imgbin.com/16/1/20/imgbin-gmail-email-icon-logo-gmail-logo-gmail-logo-KkEdJfsY4cwA1xRPRhmSB1GwC.jpg" alt="EMAIL ME"/></a>
-<a href="https://www.linkedin.com/in/damlakonur/"><img align="left" alt="Damla Konur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/damlakonur/"><img align="left" alt="Damla Konur | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 
 <br />
 
