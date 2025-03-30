@@ -27,6 +27,9 @@ I’ve worked on topics like:
 <a href="https://huggingface.co/engibeer" target="_blank">
   <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=orange" />
 </a>
+<a href="https://damlakonur.github.io" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 
 <p align="left">
 </p>
