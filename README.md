@@ -1,14 +1,6 @@
 <h1 align="center"> Hello, I am Damla! 👋</h1>
 I'm an M.Sc. student in Computer Science at the Technical University of Munich (TUM), specializing in 3D Computer Vision. My research interests center around 3D head avatars, neural rendering, and geometry-aware deep learning.
 
-I’ve worked on topics like:
-
-- 🧠 3D Gaussian Splatting (3DGS) for efficient, high-fidelity scene reconstruction
-- 👤 Neural Head Avatars: learning personalized and expressive 3D facial representations
-- 🧊 Structure from Motion (SfM) from sparse views
-- I'm passionate about bridging the gap between geometry, learning, and human-centric 3D applications.
-
-
 
 ## 👨‍💻 Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
